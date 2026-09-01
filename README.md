@@ -116,10 +116,6 @@ Each record includes:
 
 
 
-| ------------------- | --------------------------------------------- |
-
-
-
 | `job_id`            | Unique identifier for the job posting         |
 
 
@@ -340,12 +336,6 @@ This dataset ranks skills according to their frequency across the analyzed job p
 
 | Rank | Skill    | Demand |
 
-
-
-| ---: | -------- | -----: |
-
-
-
 |    1 | SQL      |  7,291 |
 
 
@@ -432,10 +422,6 @@ Some of the highest-paying skills in the dataset include:
 
 
 | Skill         | Average Salary |
-
-
-
-| ------------- | -------------: |
 
 
 
@@ -638,11 +624,6 @@ This allows skills to be evaluated from a more practical career perspective.
 
 
 | Skill     | Demand | Average Salary |
-
-
-
-| --------- | -----: | -------------: |
-
 
 
 | SQL       |    398 |        $97,237 |
