@@ -58,7 +58,7 @@ SQL Queries? Check them out here
 
 
 
-**### 1. Top-Paying Data Analyst Jobs
+### 1. Top-Paying Data Analyst Jobs
 
 
 
@@ -100,7 +100,7 @@ LIMIT 10;
 
 
 
-**
+
 
 
 
@@ -160,7 +160,7 @@ The dataset demonstrates that high-paying analytics positions extend beyond conv
 
 
 
-**### 2. Skills Required for Top-Paying Jobs
+### 2. Skills Required for Top-Paying Jobs
 
 
 
@@ -216,7 +216,7 @@ ORDER BY demand_of_skills DESC;
 
 ```
 
-**
+
 
 
 
@@ -296,7 +296,7 @@ The data shows that high-paying analytics positions frequently combine **core an
 
 
 
-**### 3. Most In-Demand Data Analyst Skills
+### 3. Most In-Demand Data Analyst Skills
 
 
 
@@ -331,8 +331,6 @@ LIMIT 5;
 ```
 
 
-
-**
 
 
 
@@ -384,7 +382,7 @@ In particular, **SQL has the highest demand by a substantial margin**, followed 
 
 
 
-**### 4. Highest-Paying Skills
+### 4. Highest-Paying Skills
 
 
 
@@ -422,7 +420,6 @@ LIMIT 25;
 
 
 
-**
 
 
 
@@ -510,7 +507,7 @@ However, salary alone does not necessarily make a skill the best choice. A skill
 
 
 
-**## 5. Most Optimal Skills
+## 5. Most Optimal Skills
 
 
 
