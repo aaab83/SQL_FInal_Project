@@ -152,7 +152,7 @@ The dataset demonstrates that high-paying analytics positions extend beyond conv
 
 
 
-![Top Paying Roles](assets\01_top_paying_jobs.png)
+![Top Paying Roles](assets/01_top_paying_jobs.png)
 
 
 
@@ -288,7 +288,7 @@ The data shows that high-paying analytics positions frequently combine **core an
 
 
 
-![skills top](assets\02_skills_top_paying_jobs.png)
+![skills top](assets/02_skills_top_paying_jobs.png)
 
 
 
@@ -374,7 +374,7 @@ In particular, **SQL has the highest demand by a substantial margin**, followed 
 
 
 
-![most](assets\03_most_in_demand_skills.png)
+![most](assets/03_most_in_demand_skills.png)
 
 
 
@@ -499,7 +499,7 @@ However, salary alone does not necessarily make a skill the best choice. A skill
 
 
 
-![highest paying](assets\04_highest_paying_skills.png)
+![highest paying](assets/04_highest_paying_skills.png)
 
 
 
@@ -729,7 +729,7 @@ This distinction makes the "Most Optimal Skills" dataset particularly useful for
 
 
 
-![optimal](assets\05_optimal_skills_demand_vs_salary.png)
+![optimal](assets/05_optimal_skills_demand_vs_salary.png)
 
 
 
